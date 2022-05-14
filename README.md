@@ -6,4 +6,4 @@
   <img alt="Readme" src="print.png">
 </h1>
 
-<a hrerf="https://gabrielhlp.github.io/Projeto-hotel/">Github pages</a>
+<a href="https://gabrielhlp.github.io/Projeto-hotel/">Github pages</a>
